@@ -1,5 +1,7 @@
 # From Field to Canvas: Bridging Sports and Art with Deep Learning Pose Analysis
 
+<img width="652" alt="Screenshot 2024-10-02 at 3 21 08 PM" src="https://github.com/user-attachments/assets/4f9369bc-8d90-4d27-903e-e03a09b12091">
+
 
 This project is an Image Action Recognition system that uses the Stanford40 action dataset. It allows users to interact with the system through a Graphical User Interface (GUI) to recognize actions performed in images and we use VIT model as the base model. The Stanford40 dataset contains images of 40 different human action classes, such as "applauding", "fishing", "holding an umbrella" etc.
 
