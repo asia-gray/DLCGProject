@@ -1,5 +1,7 @@
 # From Field to Canvas: Bridging Sports and Art with Deep Learning Pose Analysis
 
+by Asia Gray, Miira Efrem, and Dina Cazun-Moreno
+
 <img width="652" alt="Screenshot 2024-10-02 at 3 21 08 PM" src="https://github.com/user-attachments/assets/4f9369bc-8d90-4d27-903e-e03a09b12091">
 
 
@@ -38,14 +40,16 @@ We employed a pre-trained Image Action Recognition model, which we adapted to id
 
 The results highlight the efficacy of our approach in bridging the gap between the dynamic movements captured in sports imagery and the expressive poses found in art.
 
-Technical Description
-For our data collection, we began by assembling a diverse dataset of live sports images, encompassing 100 sports and poses. The dataset we used is the 100 Sports Image Classification dataset. It contains 15,000 images covering 100 different sports. Simultaneously, we compiled and explored existing databases containing paintings and other art pieces featuring human and non-human subjects in various poses to ensure comprehensive coverage. The art dataset we used is the Art Images: Drawing/Painting/Sculptures/Engravings dataset. It contains 15,000 images from five different types of art: Drawings and watercolors, Works of painting, Sculpture, Graphic Art, and Iconography.
+<img width="595" alt="Screenshot 2024-10-02 at 3 25 03 PM" src="https://github.com/user-attachments/assets/9f9b1c9a-df97-4bb3-a74a-a77d66de3ee1">
 
 
 ## Acknowledgments
 
 - The Stanford40 dataset was created and made publicly available by the Stanford Vision Lab.
 - The VIT model used in this project were developed by [jeonsworld](https://github.com/jeonsworld/ViT-pytorch).
+- Inspiration was directly drawn from the X (formerly known as Twitter) account: @ArtButSports
+
+
 
 
 
